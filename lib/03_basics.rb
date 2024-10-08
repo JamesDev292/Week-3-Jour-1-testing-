@@ -19,7 +19,7 @@ def array_42(arr)
     arr.include?(42)
 end
 
-array = [1, [2, 3], 4, 5, 6, 23, 31, [1, 2, 3]]
+
 
 def magic_array(array)
     #.flatten tableau aplatit 
